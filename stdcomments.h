@@ -3,7 +3,7 @@
  * 	@brief		x
  * 	@details	x
  *
- * 	@author		Justin Reina, Firmware Engineer, Intel Labs RPT
+ * 	@author		Justin Reina, Firmware Engineer, Company Name
  * 	@created	x
  * 	@last rev	x
  *
@@ -14,8 +14,8 @@
  * 			none current
  *
  * 	@section	Legal Disclaimer
- * 			All contents of this source file and/or any other Intel BTag related source files are the explicit property on Intel
- * 			Corporation. Do not distribute. Do not copy.
+ * 			© Year Company Name, All rights reserved. All contents of this source file and/or any other related source  
+ *			files are the explicit property of Company Name. Do not distribute. Do not copy.
  */
 /************************************************************************************************************************************/
 
