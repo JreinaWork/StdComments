@@ -11,7 +11,7 @@
  *  @notes		x
  *
  *  @section	Opens
- *	Complete Swift Syntax header content
+ *		none listed
  *
  *  @section	Legal Disclaimer
  *      © Year Company Name, All rights reserved. All contents of this source file and/or any other related source files are the 
