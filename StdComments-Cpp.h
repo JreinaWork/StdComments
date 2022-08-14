@@ -2,35 +2,55 @@
 /* Title        :  x                                                                              */
 /*------------------------------------------------------------------------------------------------*/
 /* File         :  x                                                                              */
-/* Author       :  x                                                                              */
+/* Author       :  Justin Reina, Firmware Engineer                                                                              */
 /* Company      :  Company                                                                        */
-/* Project      :  Proejct                                                                        */
-/* Created      :  dd Mon Year                                                                    */
+/* Project      :  Project                                                                        */
+/* Created      :  dd mm yyyy                                                                     */
 /* Compiler     :  Compiler                                                                       */
 /* Target       :  Target                                                                         */
 /*------------------------------------------------------------------------------------------------*/
 /* Description  :  x                                                                              */
+/*                                                                                                */
+/* Opens        :  x                                                                              */
+/*                                                                                                */
 /*------------------------------------------------------------------------------------------------*/
 /* Copyright    :  © Year Company All rights reserved                                             */
 /**************************************************************************************************/
 
+//Standard Library Includes
+#include <cstdlib>
+
+
 #define PROJ_MAIN_C
 
-/*----------------------------------------------------------------------------*/
-/* Function     : main                                                        */
-/*                                                                            */
-/* Description  : main program loop                                           */
-/*                additional content                                          */
-/*                                                                            */
-/* Arguments    : none                                                        */
-/*                                                                            */
-/* Returns      : never returns                                               */
-/*                                                                            */
-/*----------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------*/
+/* Function     : main                                                                            */
+/*                                                                                                */
+/* Description  : main program loop                                                               */
+/*                additional content                                                              */
+/*                                                                                                */
+/* Arguments    : none                                                                            */
+/* Returns      : never returns                                                                   */
+/*                                                                                                */
+/* Pre          : x                                                                               */
+/* Post         : x                                                                               */
+/*                                                                                                */
+/* Operation    : x                                                                               */
+/*                                                                                                */
+/* Todo         : x                                                                               */
+/*                                                                                                */
+/* Timing       : x                                                                               */
+/*                                                                                                */
+/* Hazards & Risks : x                                                                            */
+/*                                                                                                */
+/*------------------------------------------------------------------------------------------------*/
 int main ( void )
 {
 	//code
+	
+	return EXIT_SUCCESS;
 } /* main */
+
 
 /**************************************************************************************************/
 /*                                         SECTION HEADER                                         */
