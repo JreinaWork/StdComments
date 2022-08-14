@@ -16,10 +16,11 @@
 /*------------------------------------------------------------------------------------------------*/
 /* Copyright    :  © Year Company All rights reserved                                             */
 /**************************************************************************************************/
+using namespace std;
 
 //Standard Library Includes
 #include <cstdlib>
-
+#include <iostream>
 
 #define PROJ_MAIN_C
 
