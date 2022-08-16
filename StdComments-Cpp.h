@@ -2,7 +2,7 @@
 /* Title        :  x                                                                              */
 /*------------------------------------------------------------------------------------------------*/
 /* File         :  x                                                                              */
-/* Author       :  Justin Reina, Firmware Engineer                                                                              */
+/* Author       :  Justin Reina, Firmware Engineer                                                */
 /* Company      :  Company                                                                        */
 /* Project      :  Project                                                                        */
 /* Created      :  dd mm yyyy                                                                     */
@@ -18,11 +18,18 @@
 /**************************************************************************************************/
 using namespace std;
 
+#define PROJ_MAIN_C
+
 //Standard Library Includes
 #include <cstdlib>
 #include <iostream>
 
-#define PROJ_MAIN_C
+
+//Definitions
+
+
+//Variables
+
 
 /*------------------------------------------------------------------------------------------------*/
 /* Function     : main                                                                            */
