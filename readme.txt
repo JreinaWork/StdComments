@@ -6,7 +6,7 @@
 
 
 @section 	Notes
-	x
+	Create wiki for descrip
 
 @section 	Opens
 	Completion of readme.txt
