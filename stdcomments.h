@@ -28,11 +28,11 @@
  *  @section	Purpose
  *  	x
  *
- *  @param		[in]	name	descrip
+ *  @param    [in]	name	descrip
  *
- *  @param		[out]	name	descrip
+ *  @param    [out]	name	descrip
  *
- *  @return		(type) descrip
+ *  @return   (type) descrip
  *
  *  @pre		x
  *
