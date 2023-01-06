@@ -1,14 +1,14 @@
 /************************************************************************************************************************************/
-/** @file		x
- *  @brief		x
- *  @details	x
+/** @file     x
+ *  @brief    x
+ *  @details  x
  *
- *  @author		Justin Reina, Firmware Engineer, Company Name
- *  @created	x
- *  @last rev	x
+ *  @author   Justin Reina, Firmware Engineer, Company Name
+ *  @created  x
+ *  @last rev x
  *
  *
- *  @notes		x
+ *  @notes    x
  *
  *  @section	Opens
  * 	none current
