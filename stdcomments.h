@@ -1,28 +1,28 @@
 /************************************************************************************************************************************/
 /** @file		x
- * 	@brief		x
- * 	@details	x
+ *  @brief		x
+ *  @details	x
  *
- * 	@author		Justin Reina, Firmware Engineer, Company Name
- * 	@created	x
- * 	@last rev	x
+ *  @author		Justin Reina, Firmware Engineer, Company Name
+ *  @created	x
+ *  @last rev	x
  *
  *
- * 	@notes		x
+ *  @notes		x
  *
- * 	@section	Opens
- * 			none current
+ *  @section	Opens
+ * 	none current
  *
- * 	@section	Legal Disclaimer
- * 			© Year Company Name, All rights reserved. All contents of this source file and/or any other related source  
- *			files are the explicit property of Company Name. Do not distribute. Do not copy.
+ *  @section	Legal Disclaimer
+ * 	© Year Company Name, All rights reserved. All contents of this source file and/or any other related source  
+ *	files are the explicit property of Company Name. Do not distribute. Do not copy.
  */
 /************************************************************************************************************************************/
 
 
 /************************************************************************************************************************************/
-/**	@fcn		int main(void)
- *  @brief		x
+/** @fcn	int main(void)
+ *  @brief	x
  *  @details	x
  *
  *  @section	Purpose
@@ -47,8 +47,8 @@
  *  @section	Hazards & Risks
  *  	x
  *
- *	@section	Todo
- *		x
+ *  @section	Todo
+ *	x
  *
  *  @section	Timing
  *  	x
@@ -58,13 +58,13 @@
 /************************************************************************************************************************************/
 
 
-//------------------------------------------------------------A Delimiting Note-----------------------------------------------------//
+//--------------------------------------------------------- A Delimiting Note ------------------------------------------------------//
 
 /************************************************************************************************************************************/
-//																SECTION HEADER														 *
+//                                                          SECTION HEADER                                                          */
 //***********************************************************************************************************************************/
 
-																			/*	note to the side									*/
+                                                                             /* note to the side                                    */
 
 // a note on top
 // that spans multiple lines
