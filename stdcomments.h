@@ -34,9 +34,9 @@
  *
  *  @return   (type) descrip
  *
- *  @pre		x
+ *  @pre    x
  *
- *  @post		x
+ *  @post   x
  *
  *  @section	Operation
  *		x
